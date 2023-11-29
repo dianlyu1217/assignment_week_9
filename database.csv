@@ -1,0 +1,11 @@
+Winner,StepNumber,FirstPlayer
+X,5,X
+X,6,O
+O,8,X
+O,7,O
+Draw,9,X
+O,7,O
+O,8,X
+Draw,9,O
+Draw,9,X
+Draw,9,O
